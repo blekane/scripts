@@ -2,7 +2,7 @@
 
 #Author: bertin
 #DateJuly 2020
-#Maleficient
+#Maleficients seven
 
 
 #Description: Scriptto display system info
