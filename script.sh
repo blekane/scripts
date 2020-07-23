@@ -3,8 +3,7 @@
 
 
 
-
-
+#Description: Scriptto display system info
 
 lscpu
 nproc
