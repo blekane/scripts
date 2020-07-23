@@ -2,6 +2,7 @@
 
 #Author: bertin
 #DateJuly 2020
+#Maleficient
 
 
 #Description: Scriptto display system info
