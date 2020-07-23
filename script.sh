@@ -1,6 +1,7 @@
 #!/bin/bash
 
-
+#Author: bertin
+#DateJuly 2020
 
 
 
