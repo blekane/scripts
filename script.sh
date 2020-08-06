@@ -10,7 +10,8 @@ fi
 #author: bertin
 #date: August2020
 
-
+uname-r
+ip adresses
 lscpu
 nproc
 cat /etc/*release
