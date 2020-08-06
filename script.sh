@@ -7,6 +7,8 @@
 #Author:bertin
 #Date July2020
 
+# Description: Script to display system info
+
 
 
 
