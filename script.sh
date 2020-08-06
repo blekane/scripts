@@ -7,7 +7,8 @@ then
 
 fi	
 
-
+#author: bertin
+#date: August2020
 
 
 lscpu
