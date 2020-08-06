@@ -9,9 +9,8 @@
 
 # Description: Script to display system info
 
-#bhkmmmc,[s,X:LLK k;[
-#jjmmcks
-# je suis colonel
+
+
 
 
 
